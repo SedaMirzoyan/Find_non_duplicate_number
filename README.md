@@ -1,1 +1,1 @@
-# Find_non_duplicate_number
+# Find the number whch has no duplicate, using XOR operator.
